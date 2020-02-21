@@ -6,3 +6,6 @@
 6. creado fichero y carpeta.
 6. Se crea un archivo .gitignore
 7. git add .gitignore
+8. git add .
+9. git commit -m "commit despues de gitignore"
+10. git push -u origin master
